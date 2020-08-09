@@ -1,1 +1,1 @@
-# notepad
+Recreation of Windows Notepad in Python with Tkinter
